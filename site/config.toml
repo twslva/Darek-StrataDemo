@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Company_Name"
 theme = "hugo-strata-theme"
-disqusShortname = "Company_Name"
+disqusShortname = "darek-stratademo-netlify-com"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
